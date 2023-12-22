@@ -32,5 +32,5 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
    - 🚀 My dreams are not just daydreams. They come alive in my sleep, fueling my journey towards achieving them.
 
 **As Easy As Pie:**
-    - 🥧 Mnemonic giving 15 digits (3.14159265358979) of PI is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.
+   - 🥧 Mnemonic giving 15 digits (3.14159265358979) of PI is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.
  
