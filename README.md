@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**parijat0904114/parijat0904114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👋 Hi there, I'm Parijat!
 
 With over 5 years of experience in the software industry, I've honed my skills primarily in Python. As a skilled Django developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
