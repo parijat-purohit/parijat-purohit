@@ -8,7 +8,7 @@ My GitHub is my own territory! Here I make my own rules and bend them as I see f
    - 🎨 "My preferred colors are blue and black. However, a little hint: they're not the answers to any of my security questions, so keep guessing!
 
 2. **Coding Philosophy:**
-   - 💻 Keep it Simple, Stupid! (KISS Principle)[https://en.wikipedia.org/wiki/KISS_principle]
+   - 💻 Keep it Simple, Stupid! [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
 
 3. **Tech Interests:**
    - "🌐 Frontend and DevOps"
