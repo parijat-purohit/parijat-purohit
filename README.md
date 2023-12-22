@@ -17,7 +17,8 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
    - 📚 I am still a learner, always curious and excited to explore new technologies and paradigms in the ever-evolving world of software development.
 
 5. **Work-Life Balance:**
-   - 🧘‍♂️ Life is like riding a bicycle. To keep your balance, you must keep moving. I am not an exception. When I am away from coding and all other tech driven activities, I find serenity in sipping a cup of tea or walking in solitude. Sometimes a random barking dog on the street gives me an adrenaline rush.
+   - 🧘‍♂️ "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
+     I am not an exception to this. When I am away from coding and all other tech driven activities, I find serenity in sipping a cup of tea or walking in solitude. Sometimes a random barking dog on the street gives me an adrenaline rush.
 
 6. **Hobbies and Interests:**
    - 🎸 You will often find me strumming the strings of my guitar, crafting melodies that resonate with my inner rhythm. When I am not in front of the screen or holding my guitar, I feel a zeal to explore new places on my bike 🚴. Moreover, I cannot resist myself from embracing the adventure of hiking 🥾. Imbibing the freedom and beauty of the vast nature is always amaranthine to me.
