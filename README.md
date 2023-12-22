@@ -1,11 +1,11 @@
 👋 Hi there, I'm Parijat!
 
-With over 5 years of experience in the software industry, I've honed my skills primarily in Python. As a skilled Django developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
+With over 5 years of experience in the software industry, I have honed my skills primarily in Python. As a skilled Django developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
 
-My GitHub is my own territory! Here I make my own rules and bend them as I see fit, adapting and evolving in the fluid landscape of code and creativity.
+My GitHub is my own territory! Here, I make my own rules and bend them as I see fit, adapting and evolving in the fluid landscape of code and creativity.
 
 1. **Favorite Color:**
-   - 🎨 My favorite colors are blue and black. However, a little hint: they're not the answers to any of my security questions, so keep guessing!
+   - 🎨 My favorite colors are blue and black. However, a little hint: they are not the answers to any of my security questions, so keep guessing!
 
 2. **Coding Philosophy:**
    - 💻 Keep it Simple, Stupid! [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
