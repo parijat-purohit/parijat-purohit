@@ -33,4 +33,6 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
 
 9. **As Easy As Pie:**
     - 😄 Mnemonic giving 15 digits (3.14159265358979) of PI is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.
-    
+
+10. ** 🔴🟡🟢 **
+       
