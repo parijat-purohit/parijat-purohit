@@ -18,6 +18,8 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
 
 5. **Work-Life Balance:**
    - 🧘‍♂️ "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
+  
+     
      I am not an exception to this. When I am away from coding and all other tech driven activities, I find serenity in sipping a cup of tea or walking in solitude. Sometimes a random barking dog on the street gives me an adrenaline rush.
 
 6. **Hobbies and Interests:**
