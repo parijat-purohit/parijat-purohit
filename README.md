@@ -5,7 +5,7 @@ With over 5 years of experience in the software industry, I've honed my skills p
 My GitHub is my own territory! Here I make my own rules and bend them as I see fit, adapting and evolving in the fluid landscape of code and creativity.
 
 1. **Favorite Color:**
-   - 🎨 "My preferred colors are blue and black. However, a little hint: they're not the answers to any of my security questions, so keep guessing!
+   - 🎨 "My favorite colors are blue and black. However, a little hint: they're not the answers to any of my security questions, so keep guessing!
 
 2. **Coding Philosophy:**
    - 💻 Keep it Simple, Stupid! [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
