@@ -14,19 +14,19 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
    - 🌐 Quantum Computation, Blockchain, Cyber Security
 
 4. **Learning and Growth:**
-   - 📚 I'm still a learner, always curious and excited to explore new technologies and paradigms in the ever-evolving world of software development.
+   - 📚 I am still a learner, always curious and excited to explore new technologies and paradigms in the ever-evolving world of software development.
 
 5. **Work-Life Balance:**
-   - 🧘‍♂️ When I'm not coding, I'm all about finding balance – sip a cup of tea or just enjoying a walk on the street watching barking dogs.
+   - 🧘‍♂️ Life is like riding a bicycle. To keep your balance, you must keep moving. I am not an exception. When I am away from coding and all other tech driven activities, I find serenity in sipping a cup of tea or walking in solitude. Sometimes a random barking dog on the street gives me an adrenaline rush.
 
 6. **Hobbies and Interests:**
-   - 🎸 You'll often find me strumming the strings of my guitar, crafting melodies that resonate with my tech-driven rhythm. And when I'm not in front of a computer screen or holding a guitar, I'm likely out exploring the world on my bike 🚴 or embracing the adventure of a hike 🥾, seeking the freedom and beauty of the great outdoors.
+   - 🎸 You will often find me strumming the strings of my guitar, crafting melodies that resonate with my inner rhythm. When I am not in front of the screen or holding my guitar, I feel a zeal to explore new places on my bike 🚴. Moreover, I cannot resist myself from embracing the adventure of hiking 🥾. Imbibing the freedom and beauty of the vast nature is always amaranthine to me.
 
 7. **Personal Mantra:**
-   - 🌟 Shoot for the stars. If you fail, you'll land on the moon.
+   - 🌟 “Shoot for the moon. Even if you miss, you will land among the stars.” ― Norman Vincent Peale
 
 8. **Future Goals:**
-   - 🚀 My dreams aren't just daydreams; they come alive in my sleep, fueling my journey towards achieving them.
+   - 🚀 My dreams are not just daydreams. They come alive in my sleep, fueling my journey towards achieving them.
 
 9. **As Easy As Pie:**
     - 😄 Mnemonic giving 15 digits (3.14159265358979) of PI is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.
