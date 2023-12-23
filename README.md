@@ -37,4 +37,4 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
 **As Easy As Pie:**
    - 🥧 Mnemonic giving 15 digits (3.14159265358979) of PI is "How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics.
  
-Connect with me on ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/parijat-prashun-purohit-17bab9120/) for professional networking, or feel free to drop me an email [!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://mail.google.com/) for direct communication!"
+Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parijat-prashun-purohit-17bab9120/) for professional networking, or feel free to drop me an email [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/) for direct communication!"
