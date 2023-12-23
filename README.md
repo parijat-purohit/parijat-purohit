@@ -7,7 +7,10 @@ With over 5 years of experience in the software industry, I have honed my skills
 
 My GitHub is my own territory! Here, I make my own rules and bend them as I see fit, adapting and evolving in the fluid landscape of code and creativity.
 
-**Favorite Color:**
+**Things I am good at**:
+   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Favorite Colors:**
    - 🎨 My favorite colors are blue and black. However, a little hint: they are not the answers to any of my security questions, so keep guessing!
 
 **Coding Philosophy:**
