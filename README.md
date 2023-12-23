@@ -17,7 +17,7 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
    - 💻 Keep it Simple, Stupid! [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
 
 **Tech Interests:**
-   - 🌐 Quantum Computation, Blockchain, Dynamic Programming
+   - 🌐 AgTech, FinTech, Quantum Computation, Blockchain, Dynamic Programming
 
 **Learning and Growth:**
    - 📚 I am still a learner, always curious and excited to explore new technologies and paradigms in the ever-evolving world of software development.
