@@ -1,6 +1,7 @@
 👋 Hi there, I'm Parijat!
 
-With over 5 years of experience in the software industry, I have honed my skills primarily in https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white. As a skilled Django and Flask developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
+With over 5 years of experience in the software industry, I have honed my skills primarily in ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+. As a skilled Django and Flask developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
 
 🎓 My alma mater is the University of Lethbridge, from where I obtained my Master's degree. [![Read Thesis](https://img.shields.io/badge/Read-Thesis-blue)](https://opus.uleth.ca/server/api/core/bitstreams/06cb3860-5c8f-4de5-8558-133fe128225b/content)
 
