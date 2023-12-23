@@ -2,6 +2,9 @@
 
 With over 5 years of experience in the software industry, I have honed my skills primarily in Python. As a skilled Django and Flask developer, my responsibilities stretch from meticulous documentation to comprehensive system design, and even to mentoring emerging talents - each day brings new and expanding challenges.
 
+🎓 My alma mater is the University of Lethbridge, from where I obtained my Master's degree. [![Read Thesis](https://img.shields.io/badge/Read-Thesis-blue)](https://opus.uleth.ca/server/api/core/bitstreams/06cb3860-5c8f-4de5-8558-133fe128225b/content)
+
+
 My GitHub is my own territory! Here, I make my own rules and bend them as I see fit, adapting and evolving in the fluid landscape of code and creativity.
 
 **Favorite Color:**
@@ -11,7 +14,7 @@ My GitHub is my own territory! Here, I make my own rules and bend them as I see 
    - 💻 Keep it Simple, Stupid! [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
 
 **Tech Interests:**
-   - 🌐 Quantum Computation, Blockchain, Cyber Security
+   - 🌐 Quantum Computation, Blockchain, Dynamic Programming
 
 **Learning and Growth:**
    - 📚 I am still a learner, always curious and excited to explore new technologies and paradigms in the ever-evolving world of software development.
